@@ -1,0 +1,26 @@
+Migration Nedir?
+Migration (göç), veritabaný þemasýndaki (tablolar, sütunlar, iliþkiler vb.) deðiþiklikleri yönetmek ve uygulamak için kullanýlan bir tekniktir. Entity Framework Core (EF Core) gibi ORM (Object-Relational Mapping) araçlarý, kod tabanlý þema deðiþikliklerini veritabanýna yansýtmak için migration iþlemlerini kullanýr.
+
+Migration Ýþlevleri
+Veritabaný Þemasýnýn Takibi:
+
+Migration iþlemleri, veritabaný þemasýnda yapýlan deðiþiklikleri (örneðin, tablo ekleme, sütun güncelleme, indeks oluþturma) izler ve bu deðiþiklikleri bir dizi adým olarak kaydeder.
+Kod-Ýlk (Code-First) Yaklaþýmý:
+
+Kod-Ýlk yaklaþýmýnda, veritabaný þemasý kodla tanýmlanýr (model sýnýflarý ve DbContext). Migration iþlemleri, bu kod deðiþikliklerini veritabanýna yansýtmak için kullanýlýr.
+Veritabaný Güncellemeleri:
+
+Migration iþlemleri, veritabanýný güncelleyerek koddaki model deðiþikliklerini uygular. Bu, veritabanýnýn her zaman kodla uyumlu kalmasýný saðlar.
+Geri Alma (Rollback):
+
+Migration iþlemleri, belirli bir migration adýmýný geri alarak veritabanýný önceki bir duruma geri döndürebilir. Bu, hatalý deðiþikliklerin geri alýnmasýný kolaylaþtýrýr.
+Migration Ýþlemlerinin Avantajlarý
+Sürüm Kontrolü:
+
+Migration'lar, veritabaný þemasýnýn farklý sürümlerini yönetmeyi kolaylaþtýrýr. Hangi deðiþikliklerin ne zaman yapýldýðýný görebilirsiniz.
+Ekip Çalýþmasý:
+
+Geliþtirici ekipler, veritabaný þema deðiþikliklerini migration dosyalarý aracýlýðýyla paylaþabilir. Bu, farklý geliþtiricilerin ayný anda veritabaný üzerinde çalýþmasýný kolaylaþtýrýr.
+Otomatik Güncellemeler:
+
+Migration'lar, veritabaný güncellemelerini otomatikleþtirir. Manuel olarak SQL komutlarý yazmaya gerek kalmadan, veritabaný þemasýný güncelleyebilirsiniz.
