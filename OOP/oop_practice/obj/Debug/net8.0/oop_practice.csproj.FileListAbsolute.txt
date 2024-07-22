@@ -1,0 +1,15 @@
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\bin\Debug\net8.0\oop_practice.exe
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\bin\Debug\net8.0\oop_practice.deps.json
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\bin\Debug\net8.0\oop_practice.runtimeconfig.json
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\bin\Debug\net8.0\oop_practice.dll
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\bin\Debug\net8.0\oop_practice.pdb
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.AssemblyInfoInputs.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.AssemblyInfo.cs
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.sourcelink.json
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.dll
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\refint\oop_practice.dll
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.pdb
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\oop_practice.genruntimeconfig.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\OOP\oop_practice\obj\Debug\net8.0\ref\oop_practice.dll
