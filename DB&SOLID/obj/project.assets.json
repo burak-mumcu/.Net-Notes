@@ -3613,9 +3613,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&SOLID.csproj",
-      "projectName": "DB&SOLID",
-      "projectPath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&SOLID.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&Patterns.csproj",
+      "projectName": "DB&Patterns",
+      "projectPath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&Patterns.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWOijZEHst7Jw785Myb8eN+DJxZ8Al7ye2TEz9CqSRo6ywHzUDJWx5Z7MwXF4BEkD1FkmEDtVClvWrWInEdqFA==",
+  "dgSpecHash": "gkNDQkEP52gC6isZwyisRp57xcDV63IREzyXkQwTsID+ZK8+L9eOUPyMklO37SXBEaKUdTDnMa8n8ziegayy8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&SOLID.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB&SOLID\\DB&Patterns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

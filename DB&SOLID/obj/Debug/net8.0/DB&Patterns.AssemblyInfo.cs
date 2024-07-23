@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DB&SOLID")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DB&Patterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1eab465ba16aaf4c0db65b6c9035de4efaf0f37")]
-[assembly: System.Reflection.AssemblyProductAttribute("DB&SOLID")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DB&SOLID")]
+[assembly: System.Reflection.AssemblyProductAttribute("DB&Patterns")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DB&Patterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

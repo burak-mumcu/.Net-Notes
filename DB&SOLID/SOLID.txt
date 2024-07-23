@@ -1,0 +1,19 @@
+Single Responsibility Principle (SRP)
+
+Her sýnýfýn yalnýzca bir sorumluluðu olmalýdýr.
+
+Open-Closed Principle (OCP)
+
+Sýnýflar geniþletmeye açýk, deðiþime kapalý olmalýdýr
+
+Liskov Substitution Principle (LSP)
+
+Türetilmiþ sýnýflar, base sýnýflarýn yerine geçebilmelidir.
+
+Interface Segregation Principle (ISP)
+
+Sýnýflar, kullanmadýklarý metodlara zorlanmamalýdýr.
+
+Dependency Inversion Principle (DIP)
+
+Sýnýflar, baðýmlýlýklarýný soyutlamalar (abstract) üzerinden almalýdýr.

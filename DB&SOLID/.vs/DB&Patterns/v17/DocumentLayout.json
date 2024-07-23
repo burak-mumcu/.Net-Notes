@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\structural_patterns\\bridge_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:structural_patterns\\bridge_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\structural_patterns\\adapter_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:structural_patterns\\adapter_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\creational_patterns\\prototype_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:creational_patterns\\prototype_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\creational_patterns\\builder_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:creational_patterns\\builder_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\creational_patterns\\factory_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:creational_patterns\\factory_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\creational_patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026Patterns.csproj|solutionrelative:creational_patterns\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\solid.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|solutionrelative:solid.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\appdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|solutionrelative:appdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\db\u0026solid\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BEC02E6-18DD-4724-B69F-4ED7EC26513F}|DB\u0026SOLID.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bridge_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Structural_Patterns\\Bridge_Pattern.cs",
+              "RelativeDocumentMoniker": "Structural_Patterns\\Bridge_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Structural_Patterns\\Bridge_Pattern.cs",
+              "RelativeToolTip": "Structural_Patterns\\Bridge_Pattern.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:11:02.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adapter_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Structural_Patterns\\Adapter_Pattern.cs",
+              "RelativeDocumentMoniker": "Structural_Patterns\\Adapter_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Structural_Patterns\\Adapter_Pattern.cs",
+              "RelativeToolTip": "Structural_Patterns\\Adapter_Pattern.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:08:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prototype_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Prototype_Pattern.cs",
+              "RelativeDocumentMoniker": "Creational_Patterns\\Prototype_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Prototype_Pattern.cs",
+              "RelativeToolTip": "Creational_Patterns\\Prototype_Pattern.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:47:51.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Builder_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Builder_Pattern.cs",
+              "RelativeDocumentMoniker": "Creational_Patterns\\Builder_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Builder_Pattern.cs",
+              "RelativeToolTip": "Creational_Patterns\\Builder_Pattern.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:43:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factory_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Factory_Pattern.cs",
+              "RelativeDocumentMoniker": "Creational_Patterns\\Factory_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Factory_Pattern.cs",
+              "RelativeToolTip": "Creational_Patterns\\Factory_Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:33:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Singleton.cs",
+              "RelativeDocumentMoniker": "Creational_Patterns\\Singleton.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Creational_Patterns\\Singleton.cs",
+              "RelativeToolTip": "Creational_Patterns\\Singleton.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:18:52.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SOLID.txt",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\SOLID.txt",
+              "RelativeDocumentMoniker": "SOLID.txt",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\SOLID.txt",
+              "RelativeToolTip": "SOLID.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T07:15:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:04:03.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDb_context.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\AppDb_context.cs",
+              "RelativeDocumentMoniker": "AppDb_context.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\AppDb_context.cs",
+              "RelativeToolTip": "AppDb_context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:00:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\DB\u0026SOLID\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:18:17.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
