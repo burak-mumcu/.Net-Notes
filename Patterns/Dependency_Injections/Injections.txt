@@ -1,0 +1,73 @@
+Dependency Injection Prensipleri
+Baðýmlýlýklarýn dýþarýdan saðlanmasý: Sýnýflar, ihtiyaç duyduklarý baðýmlýlýklarý kendileri oluþturmak yerine dýþarýdan alýrlar.
+Düþük baðlýlýk: Sýnýflar arasý baðýmlýlýklarý azaltarak, bir sýnýfýn deðiþikliklerinden diðer sýnýflarýn etkilenme olasýlýðýný minimize eder.
+Test edilebilirlik: Sýnýflar daha kolay bir þekilde test edilebilir hale gelir çünkü baðýmlýlýklar kolayca mock edilebilir veya stub yapýlabilir.
+
+Constructor Injection
+Bu yöntem, baðýmlýlýklarýn sýnýfýn constructor'ý aracýlýðýyla saðlanmasýný içerir. Bu, baðýmlýlýklarýn saðlamasý gereken en yaygýn ve önerilen yöntemdir.
+
+Avantajlar:
+
+Baðýmlýlýklar nesne oluþturulurken zorunlu olarak saðlanýr.
+Baðýmlýlýklarýn deðiþtirilmesini veya eksik olmasýný önler.
+
+Dezavantajlar:
+
+Sýnýfýn constructor'ý çok fazla parametre alabilir ve bu da kodun okunabilirliðini azaltabilir.
+
+Property Injection
+Bu yöntemde baðýmlýlýklar sýnýfýn özellikleri (properties) aracýlýðýyla saðlanýr.
+
+Avantajlar:
+
+Baðýmlýlýklar isteðe baðlý olarak saðlanabilir.
+Daha okunabilir constructor'lar.
+Dezavantajlar:
+
+Baðýmlýlýklarýn saðlanmasý garanti edilmez.
+Null referans hatalarýna yol açabilir.
+
+Method Injection
+Bu yöntem, baðýmlýlýklarýn belirli bir metodun parametresi olarak saðlanmasýný içerir.
+
+Avantajlar:
+
+Baðýmlýlýklar yalnýzca gerektiðinde saðlanýr.
+Metotlar, baðýmlýlýklarý dinamik olarak alabilir.
+Dezavantajlar:
+
+Baðýmlýlýklarýn saðlanmasý garanti edilmez.
+Daha karmaþýk metod imzalarýna yol açabilir.
+
+IoC Container Kullanýmý (örn. Microsoft.Extensions.DependencyInjection)
+ASP.NET Core, Microsoft.Extensions.DependencyInjection kütüphanesi ile Dependency Injection'ý destekler. Bu, baðýmlýlýklarý kaydetmek ve çözmek için bir IoC (Inversion of Control) Container saðlar.
+
+Service Lifetime Yönetimi (Transient, Scoped, Singleton)
+Transient:
+
+Her baðýmlýlýk çözümlemesi için yeni bir örnek oluþturulur.
+Kýsa ömürlü ve hafif baðýmlýlýklar için uygundur.
+
+services.AddTransient<IDependency, Dependency>();
+
+Scoped:
+
+Her istek (request) için bir örnek oluþturulur.
+Web uygulamalarý için istek bazýnda baðýmlýlýk yönetimi saðlar.
+
+services.AddScoped<IDependency, Dependency>();
+
+Singleton:
+
+Uygulama ömrü boyunca tek bir örnek oluþturulur.
+Durum bilgisi tutan veya paylaþýlabilir kaynaklara eriþen baðýmlýlýklar için uygundur.
+
+services.AddSingleton<IDependency, Dependency>();
+
+Özet:
+
+Constructor Injection: Baðýmlýlýklarýn constructor aracýlýðýyla saðlanmasý, en yaygýn ve güvenli yöntemdir.
+Property Injection: Baðýmlýlýklarýn özellikler aracýlýðýyla saðlanmasý, isteðe baðlý baðýmlýlýklar için uygundur.
+Method Injection: Baðýmlýlýklarýn metot parametreleri olarak saðlanmasý, baðýmlýlýklarýn sadece gerektiðinde saðlanmasýný saðlar.
+IoC Container Kullanýmý: Microsoft.Extensions.DependencyInjection gibi kütüphaneler, baðýmlýlýklarý kaydetmek ve çözmek için kullanýlýr.
+Service Lifetime Yönetimi: Baðýmlýlýklarýn yaþam süresini yönetmek, uygulamanýn performansý ve bellek yönetimi için önemlidir.

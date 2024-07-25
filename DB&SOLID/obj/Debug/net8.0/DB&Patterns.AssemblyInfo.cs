@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB&Patterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c136944fb8da86160b2fc6f214bdbbc40b1879a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2e2e1c426c22239474a0ec4292aedf8d83329a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB&Patterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB&Patterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

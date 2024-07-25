@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\dependency_injections\\injections.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:dependency_injections\\injections.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\dependency_injections\\ioc_container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:dependency_injections\\ioc_container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\dependency_injections\\property_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:dependency_injections\\property_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\dependency_injections\\method_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:dependency_injections\\method_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\dependency_injections\\constructor_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:dependency_injections\\constructor_injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\event_sourcing_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\event_sourcing_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\cqrs_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\cqrs_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\specification_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\specification_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\unitofwork_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\unitofwork_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\architactural_patterns\\repository_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:architactural_patterns\\repository_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|c:\\users\\monster\\documents\\github\\.net-notes\\patterns\\behavioral_patterns\\observer_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DAF39C0-98FB-4311-B6F7-D9040E67C48A}|Patterns.csproj|solutionrelative:behavioral_patterns\\observer_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,45 +107,197 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Observer_Pattern.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Observer_Pattern.cs",
-              "RelativeDocumentMoniker": "Behavioral_Patterns\\Observer_Pattern.cs",
-              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Observer_Pattern.cs",
-              "RelativeToolTip": "Behavioral_Patterns\\Observer_Pattern.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAEYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:37:08.516Z",
+              "Title": "Injections.txt",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Injections.txt",
+              "RelativeDocumentMoniker": "Dependency_Injections\\Injections.txt",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Injections.txt",
+              "RelativeToolTip": "Dependency_Injections\\Injections.txt",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-25T08:10:51.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Strategy_Pattern.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Strategy_Pattern.cs",
-              "RelativeDocumentMoniker": "Behavioral_Patterns\\Strategy_Pattern.cs",
-              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Strategy_Pattern.cs",
-              "RelativeToolTip": "Behavioral_Patterns\\Strategy_Pattern.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Title": "IoC_Container.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\IoC_Container.cs",
+              "RelativeDocumentMoniker": "Dependency_Injections\\IoC_Container.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\IoC_Container.cs",
+              "RelativeToolTip": "Dependency_Injections\\IoC_Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:34:51.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Command_Pattern.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Command_Pattern.cs",
-              "RelativeDocumentMoniker": "Behavioral_Patterns\\Command_Pattern.cs",
-              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Command_Pattern.cs",
-              "RelativeToolTip": "Behavioral_Patterns\\Command_Pattern.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:33:59.176Z",
+              "WhenOpened": "2024-07-25T08:09:14.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Method_Injection.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Method_Injection.cs",
+              "RelativeDocumentMoniker": "Dependency_Injections\\Method_Injection.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Method_Injection.cs",
+              "RelativeToolTip": "Dependency_Injections\\Method_Injection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:08:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Property_Injection.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Property_Injection.cs",
+              "RelativeDocumentMoniker": "Dependency_Injections\\Property_Injection.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Property_Injection.cs",
+              "RelativeToolTip": "Dependency_Injections\\Property_Injection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:06:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constructor_Injection.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Constructor_Injection.cs",
+              "RelativeDocumentMoniker": "Dependency_Injections\\Constructor_Injection.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Dependency_Injections\\Constructor_Injection.cs",
+              "RelativeToolTip": "Dependency_Injections\\Constructor_Injection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:04:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event_Sourcing_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Event_Sourcing_Pattern.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\Event_Sourcing_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Event_Sourcing_Pattern.cs",
+              "RelativeToolTip": "Architactural_Patterns\\Event_Sourcing_Pattern.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:48:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CQRS_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\CQRS_Pattern.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\CQRS_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\CQRS_Pattern.cs",
+              "RelativeToolTip": "Architactural_Patterns\\CQRS_Pattern.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:44:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Specification_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Specification_Pattern.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\Specification_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Specification_Pattern.cs",
+              "RelativeToolTip": "Architactural_Patterns\\Specification_Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:42:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Models\\Product.cs",
+              "RelativeToolTip": "Architactural_Patterns\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:39:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Models\\User.cs",
+              "RelativeToolTip": "Architactural_Patterns\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:39:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\UnitOfWork_Pattern.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\UnitOfWork_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\UnitOfWork_Pattern.cs",
+              "RelativeToolTip": "Architactural_Patterns\\UnitOfWork_Pattern.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:27:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Repository_Pattern.cs",
+              "RelativeDocumentMoniker": "Architactural_Patterns\\Repository_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Architactural_Patterns\\Repository_Pattern.cs",
+              "RelativeToolTip": "Architactural_Patterns\\Repository_Pattern.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:20:03.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Observer_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Observer_Pattern.cs",
+              "RelativeDocumentMoniker": "Behavioral_Patterns\\Observer_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Observer_Pattern.cs",
+              "RelativeToolTip": "Behavioral_Patterns\\Observer_Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:37:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Strategy_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Strategy_Pattern.cs",
+              "RelativeDocumentMoniker": "Behavioral_Patterns\\Strategy_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Strategy_Pattern.cs",
+              "RelativeToolTip": "Behavioral_Patterns\\Strategy_Pattern.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAABQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:34:51.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Command_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Command_Pattern.cs",
+              "RelativeDocumentMoniker": "Behavioral_Patterns\\Command_Pattern.cs",
+              "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Command_Pattern.cs",
+              "RelativeToolTip": "Behavioral_Patterns\\Command_Pattern.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAABQwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:33:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "State_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\State_Pattern.cs",
               "RelativeDocumentMoniker": "Behavioral_Patterns\\State_Pattern.cs",
@@ -105,12 +305,11 @@
               "RelativeToolTip": "Behavioral_Patterns\\State_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:32:59.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T12:32:59.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Chain_Of_Responsibility_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Chain_Of_Responsibility_Pattern.cs",
               "RelativeDocumentMoniker": "Behavioral_Patterns\\Chain_Of_Responsibility_Pattern.cs",
@@ -118,12 +317,11 @@
               "RelativeToolTip": "Behavioral_Patterns\\Chain_Of_Responsibility_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:50:17.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:50:17.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Mediator_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Mediator_Pattern.cs",
               "RelativeDocumentMoniker": "Behavioral_Patterns\\Mediator_Pattern.cs",
@@ -131,38 +329,35 @@
               "RelativeToolTip": "Behavioral_Patterns\\Mediator_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:49:05.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:49:05.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Memento_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Memento_Pattern.cs",
               "RelativeDocumentMoniker": "Behavioral_Patterns\\Memento_Pattern.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Behavioral_Patterns\\Memento_Pattern.cs",
               "RelativeToolTip": "Behavioral_Patterns\\Memento_Pattern.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAEBTwAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:47:42.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:47:42.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "Proxy_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Proxy_Pattern.cs",
               "RelativeDocumentMoniker": "Structural_Patterns\\Proxy_Pattern.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Proxy_Pattern.cs",
               "RelativeToolTip": "Structural_Patterns\\Proxy_Pattern.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAABQwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:28:37.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:28:37.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Flyweight_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Flyweight_Pattern.cs",
               "RelativeDocumentMoniker": "Structural_Patterns\\Flyweight_Pattern.cs",
@@ -170,12 +365,11 @@
               "RelativeToolTip": "Structural_Patterns\\Flyweight_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:28:16.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:28:16.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Facade_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Facade_Pattern.cs",
               "RelativeDocumentMoniker": "Structural_Patterns\\Facade_Pattern.cs",
@@ -183,21 +377,19 @@
               "RelativeToolTip": "Structural_Patterns\\Facade_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:28:05.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T11:28:05.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Decarator_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Decarator_Pattern.cs",
               "RelativeDocumentMoniker": "Structural_Patterns\\Decarator_Pattern.cs",
               "ToolTip": "C:\\Users\\Monster\\Documents\\GitHub\\.Net-Notes\\Patterns\\Structural_Patterns\\Decarator_Pattern.cs",
               "RelativeToolTip": "Structural_Patterns\\Decarator_Pattern.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T10:45:11.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T10:45:11.483Z"
             }
           ]
         }
