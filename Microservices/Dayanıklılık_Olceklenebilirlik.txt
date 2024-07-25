@@ -1,0 +1,2 @@
+Horizontal Scaling: Daha fazla servis örneði ekleyerek ölçeklendirme. Örneðin, daha fazla sunucu eklemek.
+Vertical Scaling: Mevcut servis örneðinin donaným kapasitesini artýrarak ölçeklendirme. Örneðin, daha fazla CPU veya RAM eklemek.

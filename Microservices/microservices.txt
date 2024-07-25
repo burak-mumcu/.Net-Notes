@@ -1,0 +1,26 @@
+6.1 Mikro Servis Mimarisi Temelleri
+Mikro Servis Mimarisi Prensipleri ve Avantajlarý
+Mikro servisler, her biri belirli bir iþlevi gerçekleþtiren baðýmsýz servislerden oluþur. Bu servisler kendi veritabanlarýna ve iþ mantýklarýna sahiptir. Avantajlarý arasýnda esneklik, ölçeklenebilirlik ve baðýmsýz geliþtirme bulunur.
+
+Monolitik vs Mikro Servis Karþýlaþtýrmasý
+Monolitik: Tek bir kod tabaný, tüm iþ mantýðý ve veritabaný tek bir uygulama içinde bulunur.
+Mikro Servis: Uygulama, birbirinden baðýmsýz, küçük servislerden oluþur.
+
+Mikro Servis Mimarisi Zorluklarý ve Çözüm Stratejileri
+Zorluklar arasýnda servisler arasý iletiþim, veri tutarlýlýðý, daðýtýk izleme ve güvenlik bulunur. Çözüm stratejileri arasýnda API Gateway, Saga pattern ve merkezi izleme araçlarý kullanýmý bulunur.
+
+6.2 Servis Tasarýmý ve Decomposition
+Domain-Driven Design (DDD) ve Mikro Servisler
+DDD, karmaþýk yazýlým projelerini daha yönetilebilir ve esnek hale getiren bir yaklaþýmdýr. Mikro servislerde, her servis bir bounded context içinde yer alýr.
+
+Bounded Context Kavramý
+Bounded context, bir domain'in belirli bir kýsmýný ifade eder ve bu kýsmýn sýnýrlarýný belirler. Mikro servisler bu sýnýrlar içinde geliþtirilir.
+
+Servis Decomposition Stratejileri ve Teknikleri
+Servis decomposition, büyük bir monolitik uygulamanýn küçük, baðýmsýz mikro servislere bölünmesi sürecidir. Teknikler arasýnda iþlevsel ayrýþtýrma, alt domain ayrýþtýrma ve veritabaný ayrýþtýrma bulunur.
+
+Mikro Servis Granülaritesi ve Boyut Belirleme
+Mikro servislerin granülaritesi, her bir servisin ne kadar küçük veya büyük olacaðýný belirler. Optimal granülarite, baðýmsýz geliþtirme ve daðýtýmý saðlayacak kadar küçük, ancak yönetilebilir olacak kadar büyük olmalýdýr.
+
+Her mikro servisin kendi veritabaný olmalýdýr. Bu, baðýmsýz ölçeklenebilirlik ve hata yalýtýmý saðlar.
+

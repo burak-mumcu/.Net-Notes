@@ -1,0 +1,8 @@
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.csproj.AssemblyReference.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.AssemblyInfoInputs.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.AssemblyInfo.cs
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\Documents\GitHub\.Net-Notes\Microservices\obj\Debug\net8.0\Microservices.sourcelink.json

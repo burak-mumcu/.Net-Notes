@@ -1,0 +1,16 @@
+Subject = new ClaimsIdentity(new[] { new Claim(ClaimTypes.Name, login.Username) })
+Subject: Token'in konusu (subject) olarak bir kimlik (identity) belirlenir. Bu, token'in kimin adýna olduðunu ifade eder.
+ClaimsIdentity: Bu, bir dizi talebi (claims) içeren bir kimlik nesnesidir. Burada, tek bir talep (claim) oluþturuluyor.
+new Claim(ClaimTypes.Name, login.Username): Bu talep, kullanýcýnýn adýný (login.Username) içerir. ClaimTypes.Name, standart bir claim türüdür ve kullanýcý adýný belirtir.
+Expires = DateTime.UtcNow.AddHours(1)
+Expires: Token'in geçerlilik süresini belirtir. Burada, token'in 1 saat geçerli olacaðý belirtiliyor. DateTime.UtcNow.AddHours(1) ifadesi, token'in oluþturulduðu andan itibaren 1 saat sonra geçerliliðini yitireceði anlamýna gelir.
+SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+SigningCredentials: Token'in imzalanmasý için kullanýlan bilgileri belirtir. Ýki bileþeni vardýr:
+SymmetricSecurityKey(key): Bu, token'i imzalamak için kullanýlan gizli anahtardýr. key deðiþkeni, Encoding.UTF8.GetBytes("your_secret_key") ile oluþturulmuþ bir byte dizisidir.
+SecurityAlgorithms.HmacSha256Signature: Bu, imzalama algoritmasýdýr. HMAC-SHA256 algoritmasý kullanýlýr. Bu, token'in bütünlüðünü ve doðruluðunu saðlar.
+Issuer = "yourdomain.com"
+Issuer: Token'i oluþturan ve daðýtan tarafý (genellikle sunucuyu) belirtir. Burada, yourdomain.com olarak ayarlanmýþtýr. Bu, token'in kim tarafýndan oluþturulduðunu ifade eder.
+Audience = "yourdomain.com"
+Audience: Token'in hedef kitlesini belirtir. Genellikle token'i kabul edecek uygulamayý veya servisi belirtir. Burada, yourdomain.com olarak ayarlanmýþtýr. Bu, token'in kim tarafýndan kullanýlacaðýný ifade eder.
+Özet:
+Bu kod parçacýðý, kullanýcýnýn adýný içeren bir JWT oluþturur, token'in 1 saat geçerli olmasýný saðlar, token'i HMAC-SHA256 algoritmasýyla imzalar ve token'in oluþturucusunu ve hedef kitlesini belirler. Bu bilgiler, token'in güvenli ve belirli bir süre için geçerli olmasýný saðlar
