@@ -1,0 +1,6 @@
+@Rest_Advanced_HostAddress = http://localhost:5001
+
+GET {{Rest_Advanced_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

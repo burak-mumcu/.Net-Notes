@@ -1,0 +1,13 @@
+GraphQL:
+
+GraphQL, Facebook tarafýndan geliþtirilen bir sorgu dili ve çalýþma zamaný (runtime) ortamýdýr.
+REST'teki gibi çok sayýda endpoint yerine tek bir endpoint kullanýr.
+Ýstemciler (clients), ihtiyaç duyduklarý veriyi tam olarak sorgular ve alýr.
+Tip güvenliði sunar ve sorgularda hata kontrolü saðlar.
+Over-fetching ve under-fetching sorunlarýný çözer.
+REST:
+
+REST, HTTP protokolü üzerinden iletiþim kuran yaygýn bir mimari tarzdýr.
+Veri almak için farklý endpoint'ler kullanýlýr.
+Her endpoint, sabit veri yapýlarý döner.
+Ýstemciler genellikle fazla veya eksik veri alýr.

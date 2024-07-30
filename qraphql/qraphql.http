@@ -1,0 +1,6 @@
+@qraphql_HostAddress = http://localhost:5026
+
+GET {{qraphql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
